@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cv_Tessir/static/css/main.59948520.css",
+    "main.js": "/Cv_Tessir/static/js/main.da9f6568.js",
+    "index.html": "/Cv_Tessir/index.html",
+    "main.59948520.css.map": "/Cv_Tessir/static/css/main.59948520.css.map",
+    "main.da9f6568.js.map": "/Cv_Tessir/static/js/main.da9f6568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59948520.css",
+    "static/js/main.da9f6568.js"
+  ]
+}
